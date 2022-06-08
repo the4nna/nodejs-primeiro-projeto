@@ -54,20 +54,23 @@
   
   .content {
     width: 80%;
-    height: 60vh;
+    height: 70vh;
     background: #f1f1f1;
     box-shadow: 2px 2px 0 rgb(228, 228, 228);
     padding: 30px 30px;
     border-radius: 40px 0;
     margin: 20px 20px 20px 0;
   }
+
+  .star-icon {
+    margin-bottom: 10px;
+  }
   
   .footer {
-    position: absolute;
+    margin-top: 130px;
     bottom: 0;
     left: 0;
     width: 100%;
-    margin-top: auto;
     background-color: rgb(231, 231, 231);
     color: rgb(109, 86, 211);
     text-align: center;
